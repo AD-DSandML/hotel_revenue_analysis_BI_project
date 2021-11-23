@@ -62,7 +62,7 @@ We have also created measures like "Total Nights" and "Parking Percentage"--
 
 ![total_nights](https://user-images.githubusercontent.com/80168505/143003422-49baad1e-d054-4b1a-87d3-147455cfaa48.png)
 
-![parking_percentages](https://user-images.githubusercontent.com/80168505/143003434-a153faf4-8a74-4b4e-822f-971528d7158a.png)
+![parking_percentages_new](https://user-images.githubusercontent.com/80168505/143003770-aa702e50-1455-4c93-9151-065c10a848a5.png)
 
 And finally our final Dashboard contains 2 pages , first page is visualizing the revenue analysis and the 2nd page visualizes the parking space analysis of the hotels for the year 2018 to 2020. In the first page we can check the trend of revenue ,average night or customer are staying ,average discount offered ,average daily rate also we can check the revenue by hotels. From the matrix shown in the 2nd page we can conclude that there is no such evedence that parking space demand is growing by year, it is more or less stagnant , so we don't need to increase our parking lot space.
 
