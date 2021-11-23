@@ -19,8 +19,7 @@ We have to create a SQL Database where all the data files of our hotels will be 
  
 ## Project Pipeline:
 
-![Slide1](https://user-images.githubusercontent.com/80168511/142891804-2bb51122-8e59-495c-864a-3124b287c4df.JPG)
-
+![Slide3](https://user-images.githubusercontent.com/80168505/143002123-1599eae5-6b35-4fad-9713-316864eeb936.JPG)
 
 ## Project Walkthrough:
 At first we have created a database named-"power_bi_project" and inside it we have created 3 blank tables (hotel_records,hotel_records_2019 and hotel_records_2020).Now we have imported data from the 3 csv files i.e. hotel_revenue_2018,hotel_revenue_2019 and hotel_revenue_2020 to our newly created blank tables- hotel_records,hotel_records_2019 and hotel_records_2020 respectively.The screenshots of the SQL Query is provided below:
@@ -69,7 +68,7 @@ And finally our final Dashboard contains 2 pages , first page is visualizing the
 
 The final Dashboard looks like--
 
-![1](https://user-images.githubusercontent.com/80168511/142903584-057b9b3c-8958-4f38-98c3-a934a04bde30.PNG)
+![Screenshot 2021-11-23 151811](https://user-images.githubusercontent.com/80168505/143002687-c41f8c2b-9aa7-42fd-a7d5-40646d920772.png)
 
-![2](https://user-images.githubusercontent.com/80168511/142903607-66c03fb5-0133-490b-b1f4-bf5e84b4e4b2.PNG)
+![Screenshot 2021-11-23 151849](https://user-images.githubusercontent.com/80168505/143002701-339c0993-b069-4a6e-9a9d-7f2372b4c6b5.png)
 
